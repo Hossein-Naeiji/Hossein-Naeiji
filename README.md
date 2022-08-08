@@ -1,4 +1,10 @@
 ### Hi there 👋
+- 🔭 I’m currently working on CyberEagle Team
+- 🌱 I’m currently learning Web Penetration Test
+- 📫 How to reach me: 
+                    TelegramID: @hsyn && InstagramID: @hsyn
+
+
 
 <!--
 **Hossein-Naeiji/Hossein-Naeiji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
