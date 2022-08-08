@@ -2,9 +2,7 @@
 i'm Hossein Naeiji 
 - 🔭 I’m currently working on CyberEagle Team
 - 🌱 I’m currently learning Web Penetration Test
-- 📫 How to reach me: 
-                    TelegramID: @hsyn && InstagramID: @hsyn
-
+- 📫 How to reach me: TelegramID: @hsyn && InstagramID: @hsyn
 
 
 <!--
