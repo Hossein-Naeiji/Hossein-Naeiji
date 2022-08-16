@@ -4,7 +4,7 @@ i'm Hossein Naeiji
 - 🌱 I’m currently learning Web Penetration Test
 - 📫 How to reach me: TelegramID: @hsyn && InstagramID: @hsyn
 
-<iframe src="https://giphy.com/embed/Ye7UYS5NTl6arPbDw7" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/transparent-Ye7UYS5NTl6arPbDw7">via GIPHY</a></p>
+
 
 <!--
 **Hossein-Naeiji/Hossein-Naeiji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
